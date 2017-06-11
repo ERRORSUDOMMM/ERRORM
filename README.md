@@ -1,7 +1,7 @@
 --------------------------------------
 ## ERROR 
 
-- git clone https://github.com/ERRORM/mafia_cli
+- git clone https://github.com/mafia-007/mafia_cli
 - cd mafia_cli
 - sh install
 - #edit config.lua, line [28 , 33]
