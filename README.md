@@ -40,8 +40,8 @@
 - Lock ➣ Doc » no
 - Lock ➣ Audio » no
 - Lock ➣ Gif » no
-- ERROR
+
 
 --------------------------------------
 
-## [@ERROR_SUDO](https://telegram.me/mafia_cli)
+
